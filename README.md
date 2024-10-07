@@ -18,5 +18,4 @@ I am a software engineer with 10+ years of experience.
 ## Languages and Tools:
 ![Metrics](/github-metrics.svg)
 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=grieve54706.visitor-badge&right_color=#658ED7)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgrieve54706%2Fgrieve54706&countColor=%23658ed7&style=flat)
